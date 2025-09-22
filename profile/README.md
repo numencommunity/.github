@@ -9,6 +9,9 @@ Bem-vindo(a) à nossa comunidade dedicada a explorar e dominar o mundo da tecnol
 Nesta comunidade, nos aprofundamos em quatro áreas cruciais que impulsionam a tecnologia de hoje:
 
 ### 🔗 Integração de Sistemas
+Discutimos as melhores práticas, ferramentas e arquiteturas para conectar diferentes sistemas e serviços, garantindo comunicação fluida e eficiente.
+- **Tópicos:** APIs RESTful, GraphQL, Microsserviços, ESBs, Filas de Mensagens (Kafka, RabbitMQ), Integração Contínua (CI/CD).
+- **Recursos:** Tutoriais, exemplos de código, discussões sobre padrões de integração.
 
 ### 💻 Desenvolvimento de Sistemas
 Exploramos as últimas tendências e técnicas para construir software robusto, escalável e de alta performance.
